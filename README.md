@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Elixir and Phoenix**
 
-- 👨‍💻 All of my projects are available at [ryandevelops.com](ryandevelops.com)
-
 - 📝 I regularly write articles at [ryandevelops.com/blog](ryandevelops.com/blog)
 
 - 💬 Ask me about **React, TypeScript, Jest**
