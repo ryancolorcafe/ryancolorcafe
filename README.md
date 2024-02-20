@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ryan Brown</h1>
 <h3 align="center">A passionate Frontend Engineer from Portland, Oregon</h3>
 
-- 🔭 I’m currently working at [Fast Radius](https://github.com/fast-radius)
+- 🔭 I’m currently working at [Fast Radius](https://github.com/fast-radius) (a SyBridge Technologies brand)
 
-- 🌱 I’m currently learning **Elixir and Phoenix**
+- 🌱 I’m currently learning **Go**
 
-- 📝 I regularly write articles at [ryandevelops.com/blog](ryandevelops.com/blog)
+- 📝 I write blog posts at [ryandevelops.com/blog](ryandevelops.com/blog)
 
 - 💬 Ask me about **React, TypeScript, Jest**
 
