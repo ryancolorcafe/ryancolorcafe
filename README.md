@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ryan Brown</h1>
-<h3 align="center">A passionate Frontend Engineer from Portland, Oregon</h3>
+<h3 align="center">A passionate Senior Software Engineer from Portland, Oregon</h3>
 
-- 🔭 I’m currently working at [Fast Radius](https://github.com/fast-radius) (a SyBridge Technologies brand)
+- 🔭 I most recently worked at [SyBridge Technologies](https://sybridge.com)
 
 - 🌱 I’m currently learning **Go**
 
 - 📝 I write blog posts at [ryandevelops.com/blog](ryandevelops.com/blog)
 
-- 💬 Ask me about **React, TypeScript, Jest**
+- 💬 Ask me about **React, TypeScript, Vite, Go**
 
 - 📫 How to reach me **ryancolorcafe@gmail.com**
 
